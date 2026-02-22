@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, meu nome é Éveny Oliveira! 
 
-<!--
-**ejoliveira-dev/ejoliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e empenhada em aprender o máximo que conseguir. 🚀
 
-Here are some ideas to get you started:
+📌 Sobre mim:
+- Cursando ADS.
+- Gosto de pegar o que aprendo dentro e fora da faculdade e transformar em prática para fixar conteúdo.
+- Atualmente revisando, explorando e aprendendo sobre Python3 e entrando no mundo do HTML5 e CSS3, minhas linguagens favoritas até agora.
+- Objetivo: Desenvolver ao máximo minhas habilidades em desenvolvimento de software e web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias e Ferramentas:
+- Linguagens: Python3, HTML&CSS.
+- Ferramentas: Git, Github, VSCode.
+
+Sinta-se à vontade para explorar meus repositórios de estudo! 📂
+
+---
+
+✨ "I just want to rise up stronger" ✨
