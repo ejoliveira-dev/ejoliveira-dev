@@ -8,9 +8,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e empenhada em aprender 
 - Atualmente revisando, explorando e aprendendo sobre Python3 e entrando no mundo do HTML5 e CSS3, minhas linguagens favoritas até agora.
 - Objetivo: Desenvolver ao máximo minhas habilidades em desenvolvimento de software e web.
 
-🛠️ Tecnologias e Ferramentas:
-- Linguagens: Python3, HTML&CSS.
-- Ferramentas: Git, Github, VSCode.
+🛠️ Linguagens:
+- Python3.
+- HTML5 & CSS3.
 
 Sinta-se à vontade para explorar meus repositórios de estudo! 📂
 
